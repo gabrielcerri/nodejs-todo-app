@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-todo-app",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielcerri/nodejs-todo-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielcerri/nodejs-todo-app/issues"
+  },
+  "homepage": "https://github.com/gabrielcerri/nodejs-todo-app#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.0.0",
+    "uuid": "^8.3.2"
+  }
+}
